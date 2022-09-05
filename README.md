@@ -10,10 +10,10 @@
     <li>An analysis about car accidents in Bogota city during the last seven years has been done.</li>
     <li>Data shows that the biggest kind of car accident it's crash, followed by run over.</li>
     <li>In the majority of the cases, the final result of the car accident implies only material damages.</li>
-    <li>The locality with highest rate of car accidents is Kenedy, followed by Engativa, and the locality with the lower car accidents inside the urban perimeter is La     Candelaria, however, the locality with lower car accidents is Sumapaz.</li>
+    <li>The locality with highest rate of car accidents is Kenedy, followed by Engativa, and the locality with the lower car accidents inside the urban perimeter is La     Candelaria, however, the locality with lowest car accidents is Sumapaz.</li>
     <li>Analyzing the amount of accidents per month, the data shows that March it's the month with the highest car accidents over all the localities.</li>
-    <li>2020 shows a reduction in the car accidents, however, Kenedy's locality continues being the area with the highest accidents.</li>
-    <li>Looking at the geo-spatial map, we may see that car accidents resulting whit dead people or hurt people occurs around the city, with a few small bright spots.</li>
+    <li>2020 shows a reduction in car accidents, probably because of COVID-19 and the curfew. However, Kenedy's locality continues to be the area with the highest number of accidents.</li>
+    <li>Looking at the geospatial map, we may see those car accidents resulting in dead people or hurt people occurring around the city, with a few small bright spots over specific zones.</li>
 </ul>
 <h2>Future Tasks</h2>
 <ul>
